@@ -8,7 +8,7 @@ Video overview: <https://youtu.be/9YZ3KIhXIEE>
 
 ## Scope
 
-This database stores information about Formula 1 races, results, and predictions. It enables analysis of race outcomes and prediction accuracy. The database includes entities for drivers, teams, races, results,  predictions. It supports queries for race results, driver standings, and prediction accuracy.
+This database stores information about Formula 1 races, results, and predictions. It enables analysis of race outcomes and prediction accuracy. The database includes entities for drivers, teams, races, results, and predictions. It supports queries for race results, driver standings, and prediction accuracy.
 
 ## Functional Requirements
 ### What should a user be able to do with your database?
